@@ -1,0 +1,8 @@
+recursive-include mathdoc *.py
+recursive-include tests *.py
+recursive-include examples *.ipynb
+recursive-include docs *.rst *.py
+include README.md
+include LICENSE
+include CONTRIBUTING.md
+include requirements.txt
